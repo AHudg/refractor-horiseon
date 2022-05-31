@@ -13,6 +13,21 @@ p {
     font-size: 16px;
 }
 
+/* Utility Styles */
+.second {
+    text-align: right;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /* Styling the Header */
 header {
     padding: 20px;
@@ -77,20 +92,6 @@ a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.second {
-    text-align: right;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .content img {

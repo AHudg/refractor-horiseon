@@ -1,6 +1,13 @@
-# Code Refactor Starter Code
+# Refractoring Horiseon Website for Accessibility
+
+## Purpose
 This code is for a refractory challenge. It imitates a market agency that is interested in meeting accessibility standards and in turn increase their SEO.
 
+## Built with:
+* HTML
+* CSS
+
+## Updating the site
 A starter code was provided which solely used the *div* elements to separate the different entities. These were exchanged for HTML5 semantic elements such as *header*, *footer*, *section*, and *article* to help with screen readers and overall accessibility. 
 
 ![Screenshot of the start code with examples of changes made to it](/assets/images/StarterCodePic.png)
@@ -18,3 +25,7 @@ Lastly, the code was cleaned up, organized, and attributes were added such as:
 
 View the live page code here:
 [Refractory Challenge](https://ahudg.github.io/refractor-horiseon/)
+
+## Contribution
+
+Made by Andrew Hudgins :)
